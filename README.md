@@ -20,3 +20,7 @@ This is a responsive personal portfolio website built using HTML and CSS. It sho
 ## 🚀 How to Run
 1. Download the project
 2. Open `index.html` in browser
+## 🌐 Live Demo
+
+👉 Click here to view the project:  
+https://tharun974.github.io/project2
